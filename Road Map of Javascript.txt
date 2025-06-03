@@ -1,0 +1,176 @@
+Here’s a complete list of JavaScript topics—from beginner to advanced—covering all core concepts, browser-related APIs, ES6+ features, and important interview topics. This list is ideal if you're aiming to master JavaScript for web development or interviews.
+
+✅ 1. JavaScript Fundamentals
+Introduction to JavaScript & Setup
+
+Variables: var, let, const
+
+Data Types (Primitive & Non-Primitive)
+
+Type Conversion and Type Coercion
+
+Operators: Arithmetic, Comparison, Logical, Bitwise, Ternary
+
+Conditional Statements (if, else, switch)
+
+Loops: for, while, do...while, for...of, for...in
+
+Functions: Declarations, Expressions, Arrow Functions
+
+Parameters vs Arguments
+
+Scope: Global, Local, Block
+
+Hoisting
+
+Closures
+
+The this Keyword
+
+Strict Mode ('use strict')
+
+Execution Context & Call Stack
+
+✅ 2. Arrays and Objects
+Arrays: Creation, Access, Modification
+
+Array Methods: map, filter, reduce, find, some, every, includes, push, pop, shift, unshift, splice, slice, sort, reverse
+
+Objects: Creation, Nested Objects, Property Access
+
+Object Methods: Object.keys, Object.values, Object.entries, hasOwnProperty
+
+Object Destructuring
+
+Array Destructuring
+
+Spread and Rest Operators (...)
+
+✅ 3. Advanced JavaScript Concepts
+Higher Order Functions
+
+Callbacks
+
+Promises
+
+Async/Await
+
+Event Loop & Microtasks Queue
+
+Callback Hell
+
+JavaScript Engine (V8, JIT compilation)
+
+Memory Management & Garbage Collection
+
+✅ 4. Strings and Numbers
+String Methods: slice, substring, replace, trim, split, includes, indexOf, toUpperCase, toLowerCase
+
+Template Literals (Backticks)
+
+Number Methods: toFixed, parseInt, parseFloat, Math Object
+
+✅ 5. DOM and BOM
+DOM Manipulation: getElementById, querySelector, innerHTML, classList
+
+Events and Event Handling (addEventListener, event object)
+
+Event Propagation: Bubbling vs Capturing
+
+Event Delegation
+
+Browser Object Model (window, history, location, navigator)
+
+✅ 6. Forms and Validation
+Working with Forms (onsubmit, onchange)
+
+Client-side Validation
+
+Prevent Default Behavior
+
+✅ 7. Asynchronous JavaScript
+XMLHttpRequest (old)
+
+Fetch API
+
+Working with JSON Data
+
+API Calls and Handling Responses
+
+Error Handling: try, catch, finally
+
+Debouncing and Throttling
+
+✅ 8. ES6+ Features
+let and const
+
+Arrow Functions
+
+Default Parameters
+
+Enhanced Object Literals
+
+Destructuring
+
+Template Strings
+
+Spread & Rest Operators
+
+Promises
+
+Classes and Inheritance
+
+Modules: import, export
+
+Optional Chaining (?.)
+
+Nullish Coalescing (??)
+
+✅ 9. Object-Oriented JavaScript
+Constructor Functions
+
+Prototypes and Prototypal Inheritance
+
+ES6 Classes
+
+super and extends
+
+static methods
+
+Encapsulation and Private Fields (# syntax)
+
+✅ 10. Miscellaneous / Browser APIs
+LocalStorage, SessionStorage
+
+Cookies
+
+Geolocation API
+
+Clipboard API
+
+Date and Time with Date() object
+
+Timers: setTimeout, setInterval
+
+Regular Expressions (RegExp)
+
+✅ 11. Debugging & Tools
+Console Methods: log, warn, error, table
+
+Breakpoints in Developer Tools
+
+Linting with ESLint
+
+Using typeof, instanceof
+
+✅ 12. JavaScript in Web Development
+JavaScript and HTML Integration (<script> tag)
+
+Working with CSS via JS (element.style, classList)
+
+Creating Interactive UI
+
+Single Page Applications (intro)
+
+JavaScript Frameworks Overview (React, Vue, etc.)
+
