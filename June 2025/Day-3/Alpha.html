@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loops</title>
+</head>
+<body>
+
+    <script>
+        let arr = [10,20,40,43]
+        // let arr = ["Saketh","Workout","DSA","JS"]
+        for(var i=0;i<arr.length;i++){
+            document.write(arr[i]+"<br>");
+        }
+
+        document.write("<br>");
+        for(value in arr){
+            document.writeln (arr[value]+ " : " + value + "<br>");
+        }
+
+        document.write("<br>");
+        for(value of arr){
+            document.writeln (arr[value]+ " : " + value + "<br>");
+            // it gives undefined because we are accessing arr[10] which is not existed in the array
+        }
+
+
+
+    </script>
+
+
+
+</body>
+</html>
